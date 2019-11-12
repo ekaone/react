@@ -3,8 +3,8 @@
 React adalah suatu JavaScript library untuk membuat Antarmuka pengguna (UI).
 
 * **Deklaratif:** React memudahkan untuk membuat Antarmuka yang interaktif. Rancangan tampilan yang sederhana untuk setiap tampilan pada setiap Aplikasi, React memberikan efisiensi dalam memperbarui dan membuat komponen yang tepat ketika data Anda berubah. Tampilan deklaratif membuat kode Anda lebih mudah diprediksi, lebih mudah dipahami, dan lebih mudah di-debug.
-* **Berbasis Komponen::** Membangun komponen yang di-Enkapsulasi dan diolah pada setiap State, serta menghasilkan Antarmuka yang kompleks. Karena logika komponen ditulis dalam JavaScript sebagai pengganti template, Anda dapat dengan mudah melewatkan / memuat data melalui aplikasi Anda.
-* **Pelajari Sekali, Jalankan Dimana Saja:** Dengan tidak membuat asumsi tentang teknologi yang digunakan, sehingga Anda dapat mengembangkan fitur baru menggunakan React tanpa menulis ulang kode yang ada. React juga dapat dijalankan di server menggunakan [Node JS](https://nodejs.org/en/) dan menggunakan aplikasi seluler / Mobile menggunakan [React Native](https://facebook.github.io/react-native/).
+* **Berbasis Komponen:** Membangun komponen yang di-Enkapsulasi dan diolah pada setiap State, serta menghasilkan Antarmuka yang kompleks. Karena logika komponen ditulis dalam JavaScript sebagai pengganti template, Anda dapat dengan mudah melewatkan / memuat data melalui aplikasi Anda.
+* **Pelajari Sekali, Jalankan Dimana Saja:** Dengan tidak membuat asumsi tentang teknologi yang digunakan, sehingga Anda dapat mengembangkan fitur baru menggunakan React tanpa menulis ulang kode yang ada. React juga dapat dijalankan di server menggunakan [Node JS](https://nodejs.org/en/) dan aplikasi seluler (Mobile) menggunakan [React Native](https://facebook.github.io/react-native/).
 
 [Learn how to use React in your own project](https://reactjs.org/docs/getting-started.html).
 
